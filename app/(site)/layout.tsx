@@ -7,7 +7,7 @@ import Footer from "./_components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Onion Develop",
+  title: "Onion Develop | Full Stack Developer",
   description: "Hey! I am Nico Siciliano, Full Stack Developer",
 };
 
